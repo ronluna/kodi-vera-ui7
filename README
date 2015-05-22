@@ -1,0 +1,31 @@
+XBMC[1] addon to control Mi Casa Verde's Vera[2] (Home Automation).
+
+Copyright 2011, Guido De Rosa[3] and Antonello Ventre[4].
+
+License: GPL v2 or, at your option, any later version.
+
+Sponsored by VEMAR S.A.S.[5], Paterno (PZ), Italy.
+
+Pictures Copyright:
+
+* The vast majority of icons and pictures come from Vera web UI, 
+  Copyright Mi Casa Verde / MiOS , 
+  and are located in resources/skins/Default/media/mios
+
+* icon.png is based on http://micasaverde.com/images/logo.png, 
+  Copyright Mi Casa Verde
+
+* fanart.jpg is based on http://www.geograph.org.uk/photo/44556 
+  (see the URL for Copyright info)
+
+* resources/skins/Default/media/controls/button-focus.png is based on the
+  XBMC Confluence skin, Copyright Team XBMC  
+
+-- 
+[1] http://xbmc.org
+[2] http://micasaverde.com/vera.php
+[3] guido.derosa at vemarsas.it
+[4] antonello.ventre at vemarsas.it
+[5] https://dev.vemarsas.it
+
+
